@@ -1,0 +1,24 @@
+#redCircle {
+    background: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+}
+#blueCircle {
+    background: blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+}
+#greenCircle {
+    background: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+}
